@@ -30,7 +30,7 @@ Website *company profile* interaktif yang dibangun untuk menampilkan katalog pro
 **Kontak & Lokasi (Integrasi Maps)**
 ![Kontak & Lokasi](screenshot-kontak.png)
 
-## 🛠️ Cara Menjalankan Secara Lokal
+## Cara Menjalankan Secara Lokal
 Jika Anda ingin menjalankan project ini di komputer Anda:
 
 1. Clone repository ini:
